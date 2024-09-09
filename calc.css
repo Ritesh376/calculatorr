@@ -1,0 +1,36 @@
+body{
+    background-image:url(lap.jpg);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    font-weight: bolder;
+    color: aqua;
+    letter-spacing: 5px;
+}
+ input{
+    width: 120px;
+    height: 90px;
+    margin:2px solid rgb(250, 250, 250);
+    font-size: 45px;
+    margin: 10px;
+    background-color: #505050;
+    color:white;
+    border-radius: 20px;
+    overflow: hidden;
+
+    
+    
+ }
+
+
+ .btn:hover{
+    background-color: #d4d4d2;
+    cursor: pointer;
+ }
+.yes{
+    width: 550px;
+    background-color: #d4d4d2
+}
